@@ -4,7 +4,7 @@ import io.cucumber.java.en.*;
 
 public class carrierDataReported {
 
-	//given
+	
 	@Given("^(.*) hass been reported to the carrier$")
 	public void Data_has_been_reported_to_the_carrier (String data)
 	{
